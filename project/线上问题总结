@@ -1,1 +1,2 @@
-
+一、最大连接数导致的报错
+Can not connect to MySQL server. Too many connections" -mysql 1040错误
